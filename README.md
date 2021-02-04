@@ -1,0 +1,1 @@
+This is a decompilation of every map in Left 4 Dead Survivors (LEFT 4 DEAD -生存者たち-), decompiled with BSPSource. Note that, because of errors with BSPSource, the Mall map does not contain areaportals or windows.
